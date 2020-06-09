@@ -3,6 +3,7 @@
 .fal,
 .far,
 .fas {
+	display: inline-block;
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased;
 	font-style: normal;

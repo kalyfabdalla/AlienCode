@@ -20,11 +20,9 @@ body {
 	height: 100%;
 	margin: 0;
 	padding: 0;
-}
-
-body {
 	font-family: 'Coda', cursive;
 	font-size: 16px;
+	text-align: center;
 }
 
 #frame{
@@ -117,7 +115,7 @@ h3{
 }
 
 .credits {
-	font-size: 4;
+	font-size: 6pt;
 }
 
 .deck .card .image {
